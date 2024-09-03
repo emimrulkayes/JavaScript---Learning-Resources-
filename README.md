@@ -1,1 +1,1 @@
-# JavaScript---Learning-Resources-
+# JavaScript - Learning Resources
